@@ -5,7 +5,8 @@ Una calculadora gráfica simple creada con Python y Tkinter. Permite realizar op
 
 ## 📸 Captura de pantalla
 
-*(Puedes añadir aquí una imagen de la calculadora ejecutándose si lo deseas)*
+![image](https://github.com/user-attachments/assets/36b8965e-743e-4a5a-87a0-3d5e20cfded6)
+
 
 ---
 
